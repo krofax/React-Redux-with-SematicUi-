@@ -1,0 +1,41 @@
+{
+  "name": "retailar-ui-react-todos",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "prop-types": "^15.6.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^7.0.3",
+    "redux": "^4.0.1",
+    "semantic-ui-react": "^0.87.1"
+  },
+  "devDependencies": {
+    "enzyme": "^3.3.0",
+    "react-scripts": "3.0.1",
+    "semantic-ui": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "<p align=\"center\"><img src=\"https://i.imgur.com/3H4CDEK.png\" /></p>",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
